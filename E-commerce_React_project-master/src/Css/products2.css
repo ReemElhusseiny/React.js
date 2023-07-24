@@ -1,0 +1,174 @@
+section{
+  
+    width: 1200px;
+   position: relative;
+   top: 100px;
+}
+
+span{
+    position: relative;
+}
+#nn{position: relative;
+    background-color: rgb(176, 151, 151);
+    height: 300px;
+}
+
+  
+  .swiper {
+    width:1200px;
+    height: 500px;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    margin: 0px !important;
+    height: 200px!important;
+   
+    width: 200px !important;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+.second{position: relative;
+width: 988px;
+left:212px
+}
+.adslider img{
+  height: 256px;
+  width: 1200px;
+  box-sizing: content-box;
+}
+.para{
+  height: 180px;
+  margin-bottom: 70px;
+}
+.sider1{
+  top: 323px;
+  width: 200px;
+  position: absolute;
+}
+.sider{
+ 
+  background-color: aqua!important;
+ 
+}
+.cards{
+  padding: 0px !important;
+  width: 988px;
+  height: 500px;
+  position: absolute;
+  left: 212px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.change1:hover i,
+.change1:hover a 
+{
+  color: rgb(154, 142, 142)!important;
+}
+.change2:hover input,
+.change2:hover span {
+  text-decoration: underline;
+
+}
+.carousel-indicators {
+    margin: 0% !important;
+      width: 100%;
+      justify-content: center;
+      position: absolute;
+      top: -10px;
+     
+      display: flex;
+     
+      
+    }
+   
+    .container{
+      top: 0;
+      width: 1000px;
+      position: relative;
+      padding: 0px !important;
+      display: flex;
+      flex-wrap: wrap;
+    justify-content: space-between;
+    
+    }
+    .carousel-wrapper {
+      position: relative;
+      
+        width:322px;
+        height: 465px;
+    }
+    .card{
+      width: 322px;
+    }
+    .carousel-wrapper .carousel-indicators  [data-bs-target] {
+      width: 100%;
+      margin: 0%;
+      display: none;
+    }
+  .FavoriteBorderOutlinedIcon{
+  position: absolute;
+  margin: 10px;
+  right: 5px;
+  width: 25px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.674);
+  border-radius: 50%;
+  
+    }
+   
+  
+    .carousel-wrapper:hover [data-bs-target] {
+      width: 100%;
+      margin: 0%;
+        display: inline-flex;
+    }
+    .carousel-indicators [data-bs-target] {
+      background-color: rgb(30, 85, 30) !important;} 
+    .carousel-wrapper .caption {
+      display: none;
+    }
+    .card-body{
+      box-sizing: border-box  !important;
+      padding:16px 0 0 0 !important;
+    }
+    .carousel-wrapper:hover .caption{
+    background-color: rgba(255, 255, 255, 0.87);
+      display:block;
+    }
+  
+  
+  
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    display: flex;
+   
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+  }
+  .wiper-button-prev{    width: 500px;
+      height: 500px;
+      color: red;
+      z-index: 5;
+      border: 3px solid;
+  }

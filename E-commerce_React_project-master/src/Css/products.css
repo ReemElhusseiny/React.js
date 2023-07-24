@@ -1,0 +1,16 @@
+.btn2 {
+    height: 40px;
+    width: 150px;
+    background-color: black !important;
+    font-size: medium;
+    color: white;
+    border: 1px solid black;
+    margin-bottom: "-10px";
+}
+.btn2:hover {
+    /* width: 100px; */
+    background-color: #E21818 !important;
+    font-size: medium;
+    color: white;
+    border: 1px solid white;
+}

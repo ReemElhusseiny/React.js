@@ -1,0 +1,124 @@
+.big {
+    height: 100vh;
+    /* width: 100vw; */
+    background-image: url(/public/de.jpg);
+     background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed; */
+    /* position: relative; */
+    /* margin-top: -72px; */
+   
+  }
+  .main {
+    width: 450px;
+    height: 610px; 
+   /* margin-top: 50px; */
+    margin: 5% 30%;
+    background: rgba(245, 245, 245, 0.9);
+    border-radius: 10px;
+    position: absolute;
+    overflow: hidden; }
+    button-container {
+        display: flex;
+        justify-content: space-between;
+        gap: 4px;
+        margin-right: 15px
+      }
+    
+    #text1 {
+        /* color: #664229; */
+        position: absolute;
+        bottom: 95%;
+        /* font-style: italic; */
+        font-size: 40px;
+        left: 35%;
+        text-align: center;
+    }
+    
+    #text2 {
+        /* color: #664229; */
+        position: absolute;
+        bottom: 95%;
+        top: -100px;
+        /* font-style: italic; */
+        font-size: 40px;
+        left: 30%;
+        text-align: center;
+    }
+    
+    .main .container .generalform {
+        width: 400px;
+        position: absolute;
+        top: 50px;
+        left: 40px;
+        transition: 0.5s;
+    
+    }
+    
+    
+    input {
+        width: 100%;
+        padding: 10px;
+        margin: 5px 0;
+        border: 0;
+        border-bottom: 1px solid black;
+        outline: none;
+        background: transparent;
+    }
+    
+    
+    
+    
+    
+    .main .container #form2 {
+        left: 450px;
+    
+    }
+    
+    .sub {
+    
+        margin-top: 10%;
+        width: 80%;
+        height: 50px;
+        color: white;
+        /* background-color: #664229 !important; */
+        background-color: black !important;
+        border-radius: 10px;
+        font-size: 22px !important;
+        /* font-style: italic; */
+    
+    
+    }
+    
+    
+    .btnform {
+        margin-top: 10%;
+        width: 80%;
+        height: 50px;
+        color: white;
+        background-color: #617A55!important;
+        border:0 !important;
+        border-radius: 15px;
+        font-size: 22px !important;
+        /* font-style: italic; */
+    }
+    
+    .sub-disabled {
+        margin-top: 10%;
+        width: 80%;
+        height: 50px;
+        color: white;
+        /* background-color: #66422971 !important; */
+        background-color: black !important;
+        border-radius: 10px;
+        font-size: 22px !important;
+        /* font-style: italic; */
+    
+    }
+    .button-container {
+        display: flex;
+        justify-content: space-between;
+        gap: 4px;
+        margin-right: 15px
+      }

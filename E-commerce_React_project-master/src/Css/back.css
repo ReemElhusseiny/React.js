@@ -1,0 +1,16 @@
+.featured-overlay{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    /* background-image: url(../images/back.jpg); */
+    background-size: cover;
+    background-color: #F8E2CF;
+    visibility: visible;
+    opacity: 0;
+    transform: scaleX(0);
+    z-index: 10;
+    transition: 1s;
+    
+}

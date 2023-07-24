@@ -1,0 +1,94 @@
+.slide-container{
+    width: 90%;
+    margin: auto;
+   }
+.slide-parent{
+   overflow: auto;
+   margin-top: 100px;
+   }
+.slide-items{
+   width: 15%;
+   margin: auto;
+   float: left;   
+   margin-left: 10px;
+   margin-right: 20px;
+   text-align: center;
+   
+}
+.item1{
+margin-left: 80px;
+}
+
+.slide-line{
+border-left:2px solid rgb(101, 100, 100);
+ height: 110px;
+   float: left;
+   display: inline;
+/* margin-left: 15px; */
+margin-right:20px;
+}
+.slide-info h2{
+   font-size: 18px;
+   padding-top: 18px;
+}
+.slide-info span{
+   font-size: 17px;
+   color: grey;
+   padding-top: 5px;
+}
+
+.slide-icon1{
+       height: 50px;
+       background-image: url(/public/444.jpeg);
+       background-repeat: no-repeat;
+       margin: auto;  
+       transition: 1s;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition:1s;
+      -o-transition: 1s;
+   }
+.icon11{
+   margin: auto;  
+   background-position: center 5px;
+   }
+.icon11:hover{
+    background-position:center -93px;
+   }
+.icon22{
+       margin: auto;  
+       background-position: center -180px;
+       }
+.icon22:hover{
+        background-position:center -270px;
+       }
+   
+.icon3{
+           margin: auto;  
+           background-position: center -360px;
+           }
+.icon3:hover{
+            background-position:center -460px;
+           }
+.icon4{
+               margin: auto;  
+               background-position: center -550px;
+               }
+.icon4:hover{
+                background-position:center -640px;
+               }
+.icon5{
+                   margin: auto;  
+                   background-position: center -730px;
+                   }
+.icon5:hover{
+                    background-position:center -820px;
+                   }
+.linee{
+   width: 85%;
+   height: 1px;
+   margin: auto;
+   background-color:rgb(101, 100, 100);
+   margin-top: 40px;
+
+}
