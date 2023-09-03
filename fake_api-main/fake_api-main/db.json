@@ -1,0 +1,163 @@
+{
+  "products": [
+    {
+      "img1": "https://mazajyhome.com/cdn/shop/products/sqIMG_11_1.jpg?v=1660164843&width=600",
+      "img2": "https://mazajyhome.com/cdn/shop/products/sqIMG_10.jpg?v=1660164843&width=600",
+      "img3": "https://mazajyhome.com/cdn/shop/products/sqIMG_11.jpg?v=1660164822&width=600",
+      "productname": "Round.O - Set of 2 Tables",
+      "price" : 300,
+      "quantity": 0,
+      "id": 1
+    },
+    {
+      "img1": "https://mazajyhome.com/cdn/shop/files/Sq-DSCF7810.jpg?v=1691488046&width=600",
+      "img2": "https://mazajyhome.com/cdn/shop/products/sq-DSCF7814.jpg?v=1691488046&width=600",
+      "img3": "https://mazajyhome.com/cdn/shop/products/sqIMG_5_0d1420e0-18d1-4f0d-b4be-d64d5d1a806b.jpg?v=1691488046&width=600",
+      "productname": "R.Trolley Table",
+      "price" : 500,
+      "quantity": 11,
+      "id": 3
+    },
+    {
+      "img1": "https://mazajyhome.com/cdn/shop/products/sq1.jpg?v=1676978755&width=600",
+      "img2": "https://mazajyhome.com/cdn/shop/products/sq4.jpg?v=1676979065&width=600",
+      "img3": "https://mazajyhome.com/cdn/shop/products/sq3.jpg?v=1676980254&width=600",
+      "productname": "SteelNest Lanterns",
+      "price" : 700,
+      "quantity": 6,
+      "id": 5
+    },
+    {
+      "img1": "https://floward.imgix.net/web/Files/thumPro/8f4ed677-795c-42cb-bf6f-fb3070ed3b34.jpg?w=600&auto=format",
+      "img2": "https://floward.imgix.net/web/Files/thumPro/d2608c06-10b3-42af-956e-1a91e3391bf4.jpg?w=600&auto=format",
+      "img3": "https://floward.imgix.net/web/Files/thumPro/bbe5726f-c714-43dc-bad1-4fefbe26c159.jpg?w=600&auto=format",
+      "productname": "Ellie Home Mustard Falling Leaves Vase with Flowers",
+      "price" : 400,
+      "quantity": 21,
+      "id": 6
+    },
+    {
+      "img1": "https://mazajyhome.com/cdn/shop/products/sqIMG_54.jpg?v=1671315011&width=600",
+      "img2": "https://mazajyhome.com/cdn/shop/products/sqIMG_55.jpg?v=1671315012&width=600",
+      "img3": "https://mazajyhome.com/cdn/shop/products/sqIMG_56.jpg?v=1671315011&width=600",
+      "productname": "Hammered Tealight Bowl - Pure Copper",
+      "price" : 900,
+      "quantity": 8,
+      "id": 7
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "firstname": "admin",
+      "lastname": "admin",
+      "email": "admin@yahoo.com",
+      "password": "ADmin@123"
+    },
+    {
+      "firstname": "reem",
+      "lastname": "yasser",
+      "email": "reem123@gmail.com",
+      "password": "REas@321",
+      "id": 2
+    },
+    {
+      "firstname": "Nada",
+      "lastname": "Ahmed",
+      "email": "nadaggamal123@gmail.com",
+      "password": "NAda@123",
+      "id": 3
+    },
+    {
+      "firstname": "maryem",
+      "lastname": "safwat",
+      "email": "maryam@gamil.com",
+      "password": "MAma@321",
+      "id": 4
+    },
+    {
+      "firstname": "Nada",
+      "lastname": "Ahmed",
+      "email": "nadaggamal123@gmail.com",
+      "password": "DAas123@",
+      "id": 5
+    },
+    {
+      "firstname": "fafafa",
+      "lastname": "ggaggs",
+      "email": "ree23@gmail.com",
+      "password": "REas@32d",
+      "id": 6
+    },
+    {
+      "firstname": "reem ",
+      "lastname": "yasserr ",
+      "email": "reem123@gmail.com",
+      "password": "REas@321",
+      "id": 7
+    },
+    {
+      "firstname": "merehan",
+      "lastname": "hassan",
+      "email": "meme@gmail.com",
+      "password": "MEme%123",
+      "id": 8
+    },
+    {
+      "firstname": "mina",
+      "lastname": "atef",
+      "email": "mm123@gmail.com",
+      "password": "ASdf123$",
+      "id": 9
+    },
+    {
+      "firstname": "hoda",
+      "lastname": "Ahmed",
+      "email": "nadaggama@gmail.com",
+      "password": "ASdf123#",
+      "id": 10
+    },
+    {
+      "firstname": "nerimen",
+      "lastname": "hanu",
+      "email": "nn@gmail.com",
+      "password": "ASdf@123",
+      "id": 11
+    },
+    {
+      "firstname": "nada",
+      "lastname": "gdasa",
+      "email": "n@gmail.com",
+      "password": "ASdf@123",
+      "id": 12
+    },
+    {
+      "firstname": "aml",
+      "lastname": "ali",
+      "email": "aml@gmail.com",
+      "password": "Aml@ali1",
+      "id": 13
+    },
+    {
+      "firstname": "noha",
+      "lastname": "noha",
+      "email": "noha@gmail.com",
+      "password": "Reem@yasser4",
+      "id": 23
+    },
+    {
+      "firstname": "noha",
+      "lastname": "noha",
+      "email": "noha@gmail.com",
+      "password": "Reem@yasser4",
+      "id": 24
+    },
+    {
+      "firstname": "salwa",
+      "lastname": "salwa",
+      "email": "salwa@gmail.com",
+      "password": "Salwa@123",
+      "id": 25
+    }
+  ]
+}
